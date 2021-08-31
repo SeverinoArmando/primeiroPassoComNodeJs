@@ -1,0 +1,4 @@
+Antes de tudo temos que instalar o sequelize no nosso projeto.
+Depois  percisamos configurar a conexão com o nosso tipo de banco de dados, usuário, senha e outros,
+Depois temos que inicializar para criar as tabelas do nosso banco de dados.
+Em seguida é so inserir os valores e verificar se foram inseridos corretamente.
